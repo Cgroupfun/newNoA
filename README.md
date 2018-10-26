@@ -14,10 +14,3 @@
 -　　ホーム画面はUIview.animateを使う 
 - 注射、MRI、レントゲン
 
-<<<<<<< HEAD
-xxxxx
-=======
-ieeeeeeeeeei
->>>>>>> 722e5bda9233cc1c930a385210d625a8b83fe0f6
-aaaaaaaaaa
-iiiiiiiiiii
